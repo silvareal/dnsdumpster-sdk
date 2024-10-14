@@ -4,8 +4,8 @@ export default defineConfig({
   build: {
     lib: {
       entry: "./lib/main.ts",
-      name: "dnsdumpster",
-      fileName: "dnsdumpster",
+      name: "dnsdumpstersdk",
+      fileName: "dnsdumpstersdk",
     },
   },
 });

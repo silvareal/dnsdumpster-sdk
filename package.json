@@ -7,13 +7,13 @@
     "dist",
     "index.d.ts"
   ],
-  "main": "./dist/dnsdumpster.umd.cjs",
-  "module": "./dist/dnsdumpster.js",
+  "main": "./dist/dnsdumpstersdk.umd.cjs",
+  "module": "./dist/dnsdumpstersdk.js",
   "types": "./index.d.ts",
   "exports": {
     "types": "./index.d.ts",
-    "import": "./dist/dnsdumpster.js",
-    "require": "./dist/dnsdumpster.umd.cjs"
+    "import": "./dist/dnsdumpstersdk.js",
+    "require": "./dist/dnsdumpstersdk.umd.cjs"
   },
   "scripts": {
     "dev": "vite",
