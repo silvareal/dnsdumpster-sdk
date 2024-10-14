@@ -8,11 +8,11 @@ const dnsPrivate = new dns();
 
 ```
 
-### And the result
+<!-- ### And the result
 
 ```json
 
-```
+``` -->
 
 # Inspiration
 Inspired by [text](https://github.com/PaulSec/API-dnsdumpster.com)
